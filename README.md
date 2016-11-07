@@ -4,7 +4,7 @@ This serves as the repository for all the source code to generate all the exampl
 
 # Gathering the data:  
 
-API scripts are written in `python 3.5.x`, specifically using the anaconda distribution.  
+API scripts are written in `python 3.5.x`, specificaqrwerqewrqewrqerlly using the anaconda distribution.  
 Third party dependencies are defined in the requirements.txt file in root directory.  
 
 The script (gh-reports.py) is run with command line arguments. The arguments are as follows:  
